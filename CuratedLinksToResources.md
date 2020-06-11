@@ -41,7 +41,7 @@
 
 [Digital Security for Protests - Philly Socialists Tech Collective](https://www.phillysocialists.org/digital-security)
 
-[End-to-End Encryption 101: And to the Vault 7 Revelations Mean Encryption is Useless? - Crimethinc](https://crimethinc.com/2017/03/08/end-to-end-encryption-101-what-does-e2ee-do-and-does-vault-7-mean-its-useless)
+[End-to-End Encryption 101: And do the Vault 7 Revelations Mean Encryption is Useless? - Crimethinc](https://crimethinc.com/2017/03/08/end-to-end-encryption-101-what-does-e2ee-do-and-does-vault-7-mean-its-useless)
 
 [Guides & Training - Freedom of the Press Foundation](https://freedom.press/training/)
 
@@ -65,7 +65,7 @@
 
 ## Software and Services
 ### Browsers
-[Browser Recommendations for Desktop - PrivacyTools](https://www.privacytools.io/browsers/#browser) (This does not include Brave, but I do think it's okay for day-to-day browsing!
+[Browser Recommendations for Desktop - PrivacyTools](https://www.privacytools.io/browsers/#browser) (This does not include Brave, but I do think it's okay for day-to-day browsing!)
 
 [Browser Recommendations for Android - PrivacyTools](https://www.privacytools.io/browsers/#browser-android)
 
