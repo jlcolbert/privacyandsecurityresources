@@ -37,6 +37,8 @@
 
 [Choosing the Proper Tool for the Task: Assessing Your Encryption Options - Crimethinc](https://crimethinc.com/2017/03/21/choosing-the-proper-tool-for-the-task-assessing-your-encryption-options)
 
+[Digital Security for Protests - Philly Socialists Tech Collective](https://www.phillysocialists.org/digital-security)
+
 [End-to-End Encryption 101: And to the Vault 7 Revelations Mean Encryption is Useless? - Crimethinc](https://crimethinc.com/2017/03/08/end-to-end-encryption-101-what-does-e2ee-do-and-does-vault-7-mean-its-useless)
 
 [Guides & Training - Freedom of the Press Foundation](https://freedom.press/training/)
