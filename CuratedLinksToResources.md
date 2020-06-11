@@ -30,6 +30,8 @@
 
 [PrivacyTools](https://www.privacytools.io/)	[.onion address](http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/)
 
+[Tor Project](https://www.torproject.org/)
+
 
 	
 ## Guides and Tutorials
