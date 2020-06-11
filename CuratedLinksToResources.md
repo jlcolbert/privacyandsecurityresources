@@ -1,9 +1,9 @@
 # Links to external resources
 
 ## Reading lists
-[Library Freedom Insitute book list](https://github.com/alisonLFP/libraryfreedominstitute/blob/master/resources/book-list.txt)
-
 [Haymarket Books for Resisting Empire](https://www.haymarketbooks.org/blogs/99-haymarket-books-for-resisting-empire)
+
+[Library Freedom Insitute book list](https://github.com/alisonLFP/libraryfreedominstitute/blob/master/resources/book-list.txt)
 
 [Search results for "Surveillance" - AK Press](https://www.akpress.org/catalogsearch/result?p=2&q=surveillance)
 
